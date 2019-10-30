@@ -1,0 +1,15 @@
+{
+    "name": "pm-connect/phpcs",
+    "type": "ci-test",
+    "authors": [
+        {
+            "name": "Marcus Speight",
+            "email": "marcus@pmconnect.co.uk"
+        }
+    ],
+    "require": {
+        "squizlabs/php_codesniffer": "3.4",
+        "slevomat/coding-standard": "5.0",
+        "moxio/php-codesniffer-sniffs": "2.1"
+    }
+}
